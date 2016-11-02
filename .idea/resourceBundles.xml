@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/main/resources/anwers.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/anwers_en_US.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/anwers_ru_RU.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/faq.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/faq_en_US.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/faq_ru_RU.properties" />
+    <file url="file://$PROJECT_DIR$/src/resourse/answers.properties" />
+    <file url="file://$PROJECT_DIR$/src/resourse/answers_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/resourse/answers_ru.properties" />
+    <file url="file://$PROJECT_DIR$/src/resourse/faqs.properties" />
+    <file url="file://$PROJECT_DIR$/src/resourse/faqs_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/resourse/faqs_ru.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/resourse/answers.properties" />
+      <file value="file://$PROJECT_DIR$/src/resourse/answers_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/resourse/answers_ru.properties" />
+      <base-name>answers</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/resourse/faqs.properties" />
+      <file value="file://$PROJECT_DIR$/src/resourse/faqs_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/resourse/faqs_ru.properties" />
+      <base-name>faqs</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/faq.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/faq_en_US.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/faq_ru_RU.properties" />
+      <base-name>faq</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
